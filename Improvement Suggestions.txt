@@ -1,0 +1,15 @@
+Aug 28 2024:
+
+Attempted Apple OA, failed miserably, they were both easy array questions but its clear that my knowledge of arrays and hashmaps needs some work, so I'm going to spend the next couple days fully mastering that until I can ace this OA. 
+
+Specifically problems 1002 and 1221 threw me off.
+
+Steps for Improvement:
+
+- Familiarize yourself with the collections/counter library
+
+- Review your old notes and attempt these questions from scratch on Aug 29 2024, IF you cannot then refer to similar questions, solve those properly and come back when you are ready
+
+- Learn more about dictionary operations
+
+- Look inwards and see if you have any weaknesses in any other Data Structures
