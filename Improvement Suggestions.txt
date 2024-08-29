@@ -6,10 +6,14 @@ Specifically problems 1002 and 1221 threw me off.
 
 Steps for Improvement:
 
-- Familiarize yourself with the collections/counter library
+- Familiarize yourself with the collections/counter library ✓
 
-- Review your old notes and attempt these questions from scratch on Aug 29 2024, IF you cannot then refer to similar questions, solve those properly and come back when you are ready
+- Review your old notes and attempt these questions from scratch on Aug 29 2024, IF you cannot then refer to similar questions, solve those properly and come back when you are ready ✓
 
-- Learn more about dictionary operations
+- Learn more about dictionary operations ✓
 
-- Look inwards and see if you have any weaknesses in any other Data Structures
+- Look inwards and see if you have any weaknesses in any other Data Structures ✓ -> Determined that I have very surface level knowledge of each and need to familiarize myself with different algo implementations
+
+
+Reviewed on Aug 29 2024, also learned about Greedy algorithm, super cool :D
+ 
